@@ -1,0 +1,10 @@
+<?php
+include("db_config.php");
+include("session_control.php");
+include("validation.php");
+include("upload_file.php");
+include("functions.php");
+include("forum_functions.php");
+include("pagination.php");
+include("html_functions.php");
+?>

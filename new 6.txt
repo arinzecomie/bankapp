@@ -1,0 +1,1345 @@
+COMPANY	COUNTRY	MARKET
+360Networks Inc.	Canada	OTC
+3DLabs Inc. Ltd.	Bermuda	NMS
+724 Solutions Inc.	Canada	NMS
+A B Electrolux	Sweden	NMS
+A B SKF	Sweden	NMS
+A B Volvo	Sweden	NMS
+A R T International Inc.	Canada	OTC
+A.O. Tatneft	Russia	NYSE
+ABB Ltd.	Switzerland	NYSE
+Abbey National plc	United Kingdom	NYSE - Preferred
+Aber Diamond Ltd.	Canada	SM CAP
+Abitibi Consolidated Inc.	Canada	NYSE
+ABN Amro Holding N.V.	Netherlands	NYSE
+Acambis plc	United Kingdom	NMS
+Accelio Corp.	Canada	NMS
+Acetex Corp.	Canada	OTC - Debt
+Achieva Development Corp.	Canada	OTC
+Acindar Industria Argentina de Aceros S.A.	Argentina	OTC - Debt
+ACLN Ltd.	Cyprus	NYSE
+ACS-Tech 80 Ltd.	Israel	SM CAP
+ActFit.com Inc.	Canada	OTC
+ActivCard S.A.	France	NMS
+Active Assets & Associates Inc.	Canada	OTC
+ADB Systems International Inc.	Canada	NMS
+Adecco S.A.	Switzerland	NYSE
+Adrian Resources Ltd.	Canada	OTC
+Advance Agro Public Co. Ltd.	Thailand	OTC - Debt
+Advanced Semiconductor Engineering, Inc.	Taiwan	NYSE
+Advantest Corp.	Japan	NYSE
+AdvantExcel.com Communications Corp.	Canada	OTC
+AEGON N.V.	Netherlands	NYSE
+Aerco Ltd.	United Kingdom	OTC - Debt
+AES Drax Holdings Ltd.	United Kingdom	OTC - Debt
+AES Drax Power Finance Holdings Ltd.	United Kingdom	OTC - Debt
+Aeterna Laboratories Inc.	Canada	NMS
+Agnico-Eagle Mines Ltd.	Canada	NYSE
+Agrium Inc.	Canada	NYSE
+AimGlobal Technologies Co. Inc.	Canada	AMEX
+Ainsworth Lumber Co. Ltd.	Canada	OTC
+Air Canada	Canada	NMS
+Akzo Nobel N.V.	Netherlands	NMS
+Aladdin Knowledge Systems Ltd.	Israel	NMS
+Alberta Energy Co. Ltd.	Canada	NYSE
+Alcan Inc.	Canada	NYSE
+Alcatel	France	NYSE
+Alestra, S de R.L. de C.V.	Mexico	OTC - Debt
+Alfa Laval Special Finance AB	Sweden	OTC - Debt
+Algoma Steel Inc.	Canada	OTC
+Alliance Atlantis Communications Corp.	Canada	NMS
+Allianz Aktiengesellschaft	Germany	NYSE
+Allied Irish Banks plc	Ireland	NYSE
+Allura International Inc.	Canada	OTC
+Almaden Resource Corp.	Canada	OTC
+Alstom	France	NYSE
+Altair International, Inc.	Canada	NMS
+Altarex Corp.	Canada	OTC
+Alto Palermo S.A.	Argentina	NMS
+Aluminum Corp of China Ltd.	China	NYSE
+Alvarion Ltd.	Israel	NMS
+Amarin Corp plc	United Kingdom	NMS
+Amatek Industries Pty Ltd.	Australia	OTC - Debt
+Amcor Ltd.	Australia	NMS
+Amdocs Ltd.	United Kingdom	NYSE
+America Mineral Fields Inc.	Canada	OTC
+America Movil, S.A. de C.V.	Mexico	NYSE
+American Israeli Paper Mills Ltd.	Israel	AMEX
+Amersham plc	United Kingdom	NYSE
+Amvescap plc	United Kingdom	NYSE
+Amway Japan Ltd.	Japan	OTC
+Anangel-American Shipholdings Ltd.	Cayman Islands	NMS
+Anchor Lamina, Inc.	Canada	OTC
+Angiotech Pharmaceuticals, Inc.	Canada	NMS
+Anglo Swiss Resources Inc.	Canada	OTC
+Anglogold Ltd.	South Africa	NYSE
+Anooraq Resources Corp.	Canada	OTC
+Antenna TV S.A.	Greece	NMS
+Anthony Clark International Insurance Brokers Inc.	Canada	OTC
+API Electronics Group Inc.	Canada	OTC
+Apiva.com Web Corp.	Canada	OTC
+APT Satellite Holdings Ltd.	Bermuda	NYSE
+Aracruz Celulose S.A.	Brazil	NYSE
+Aramex International Ltd.	Bermuda	NMS
+ARC Energy Trust	Canada	OTC
+Arcadis N.V.	Netherlands	NMS
+Arch Capital Group Ltd.	Bermuda	NMS
+Archangel Diamond Co.	Canada	OTC
+Arel Communications & Software Ltd.	Israel	NMS
+Argosy Minerals Inc.	Canada	OTC
+Ariel Resources Ltd.	Canada	OTC
+Arm Holdings plc	United Kingdom	NMS
+Art Advanced Research Technologies Inc.	Canada	OTC
+Aryt Industries Ltd.	Israel	OTC
+ASAT Holdings Ltd.	Cayman Islands	NMS
+ASE Test Ltd.	Singapore	NMS
+Ashanti Goldfields Co. Ltd.	Ghana	NYSE
+Asia Pacific Resources International Ltd.	Bermuda	OTC
+Asia Pacific Resources, Ltd.	Canada	OTC
+Asia Pacific Wire & Cable Corp. Ltd.	Bermuda	NYSE
+Asia Pulp & Paper Co. Ltd.	Singapore	OTC
+Asia Satellite Telecommunications Holdings Ltd.	Bermuda	NYSE
+Asiacontent.com Ltd.	British Virgin Islands	NMS
+ASM International N.V.	Netherlands	NMS
+ASML Holding N.V.	Netherlands	NMS
+Aspen Group Resources Corp.	Canada	OTC
+AstraZeneca plc	United Kingdom	NYSE
+Astris Energi Inc.	Canada	OTC
+AT Plastics Inc.	Canada	AMEX
+AT&T Canada Inc.	Canada	NMS
+ATI Technologies Inc.	Canada	NMS
+Atlantic Caspian Resources plc	United Kingdom	OTC
+Atlantic Telecom Group plc	United Kingdom	OTC - Debt
+Atlas Pacific Ltd.	Australia	SM CAP
+ATNA Resources Ltd.	Canada	OTC
+Attunity Ltd.	Israel	NMS
+Audiocodes Ltd.	Israel	NMS
+Aurizon Mines Ltd.	Canada	OTC
+Aurora Metals BVI Ltd.	Canada	OTC
+Australia & New Zealand Banking Group Ltd.	Australia	NYSE
+Autonomy Corp plc	United Kingdom	NMS
+Avecia Group plc	United Kingdom	OTC - Debt
+Aventis	France	NYSE
+AXA	France	NYSE
+Axcan Pharma Inc.	Canada	NMS
+Ayotte Music Inc.	Canada	OTC
+Azteca Holdings, S.A. de C.V.	Mexico	OTC - Debt
+Aztek Technologies Inc.	Canada	OTC
+B & H Ocean Carriers Ltd.	Liberia	AMEX
+Bakbone Software Inc.	Canada	OTC
+Balaton Power Inc.	Canada	OTC
+Ballard Power Systems Inc.	Canada	NMS
+Baltimore Technologies plc	United Kingdom	OTC
+Banco Bilboa Vizcaya Argentaria S.A.	Spain	NYSE
+Banco Bradesco S.A.	Brazil	NYSE
+Banco Comercial Portugues S.A.	Portugal	NYSE
+Banco de A. Edwards	Chile	NYSE
+Banco de Chile	Chile	NYSE
+Banco Espirito Santo e Comercial de Lisboa S.A.	Portugal	NYSE - Preferred
+Banco Rio de la Plata S.A.	Argentina	OTC - Debt
+Banco Santander - Chile	Chile	NYSE
+Banco Santander Central Hispano S.A.	Spain	NYSE
+Banco Santiago	Chile	NYSE
+Banco Totta & Acores S.A.	Portugal	NYSE - Preferred
+BanColombia S.A.	Colombia	NYSE
+Bank of Montreal	Canada	NYSE
+Barak I.T.C. (1995) - International Telecommunications Services Corp.	Israel	OTC - Debt
+Barbeques Galore Ltd.	Australia	NMS
+Barclays Bank plc	United Kingdom	NYSE - Preferred
+Barclays plc	United Kingdom	NYSE
+Barrick Gold Corp.	Canada	NYSE
+BASF Aktiengesellschaft	Germany	NYSE
+Battery Technologies Inc.	Canada	OTC
+Baytex Energy Ltd.	Canada	OTC - Debt
+BBVA Banco BHIF	Chile	NYSE
+BBVA Banco Frances S.A.	Argentina	NYSE
+BCE Inc.	Canada	NYSE
+BCI Telecom Holding Inc.	Canada	NMS
+BE Semiconductor Industries N.V.	Netherlands	NMS
+Beijing Yanhua Petrochemical Co. Ltd.	China	NYSE
+Bell Canada	Canada	OTC - Debt
+Belmont Resources, Inc.	Canada	OTC
+Belzberg Technologies Inc.	Canada	OTC
+Bema Gold Corp.	Canada	AMEX
+Benetton Group S.p.A.	Italy	NYSE
+Benguet	Philippines	OTC
+Bennett Environmental Inc.	Canada	AMEX
+Berkley Resources Inc.	Canada	OTC
+Bestel S.A. de C.V.	Mexico	OTC - Debt
+BG Group plc	United Kingdom	NYSE
+BHP Billiton Ltd.	Australia	NYSE
+Biacore International AB	Sweden	NMS
+Big Rock Brewery Ltd.	Canada	NMS
+Bioforest Pacific Inc.	Canada	OTC
+Biomira Inc.	Canada	NMS
+Biora AB	Sweden	OTC
+Biovail Corporation	Canada	NYSE
+Birch Mountain Resources Ltd.	Canada	OTC
+Blue Square - Israel Ltd.	Israel	NYSE
+Boardwalk Equities Inc.	Canada	NYSE
+BOC Group plc	United Kingdom	NYSE
+Bonso Electronics International Inc.	British Virgin Islands	NMS
+Bookham Technology plc	United Kingdom	NMS
+BOS Better Online Solutions Ltd.	Israel	SM CAP
+Bouygues Offshore S.A.	France	NYSE
+BP plc	United Kingdom	NYSE
+Bracknell Corp.	Canada	OTC
+Bradner Ventures Ltd.	Canada	OTC
+Brandera.com Inc.	Canada	OTC
+Brascan Corp.	Canada	NYSE
+Brasil Telecom Participacoes S.A.	Brazil	NYSE
+Brasil Telecom S.A.	Brazil	NYSE
+Bravo Resource Partners Ltd.	Canada	OTC
+Breakwater Resources Ltd.	Canada	OTC
+Brilliance China Automotive Holdings Ltd.	Bermuda	NYSE
+British Airways plc	United Kingdom	NYSE
+British Biotech plc	United Kingdom	NMS
+British Energy plc	United Kingdom	NYSE
+British Sky Broadcasting Group plc	United Kingdom	NYSE
+Brocker Technology Group Ltd.	Canada	OTC
+Brokat Aktiengesellschaft	Germany	OTC
+Brookfield Properties Corp.	Canada	NYSE
+BT Group plc	United Kingdom	NYSE
+Buenos Aires Embotelladora S.A.-BAESA	Argentina	OTC
+Buffalo Diamonds Ltd.	Canada	OTC
+Buhrmann N.V.	Netherlands	NYSE
+Bunge Ltd.	Bermuda	NYSE
+Bunzl plc	United Kingdom	NYSE
+BVR Systems Ltd.	Israel	SM CAP
+BVR Technologies Ltd.	Israel	SM CAP
+Cable and Wireless plc	United Kingdom	NYSE
+Cable Satisfaction International Inc.	Canada	OTC - Debt
+Cabletel Communications Corp.	Canada	AMEX
+Cableuropa, S.A.	United Kingdom	OTC - Debt
+Cablevision S.A.	Argentina	OTC - Debt
+Cadbury Schweppes plc	United Kingdom	NYSE
+Cade Struktur Corp.	Canada	OTC
+Calais Resources Inc.	Canada	OTC
+CalciTech Ltd.	Canada	OTC
+Caledonia Mining Corp.	Canada	OTC
+California Exploration Ltd.	Canada	OTC
+Call Net Enterprises Inc.	Canada	OTC
+Callahan Nordheim-Westfalen GmbH	Germany	OTC - Debt
+Cambior Inc.	Canada	AMEX
+Cambridge Antibody Technology Group plc	United Kingdom	NMS
+Cameco Co.	Canada	NYSE
+Camflo Resources Ltd.	Canada	OTC
+Campbell Resources Inc.	Canada	OTC
+Camtek Ltd.	Israel	NMS
+Camuzzi Gas del Sur S.A.	Argentina	OTC
+Camuzzi Gas Pampeana S.A.	Argentina	OTC
+Canada Life Financial Corp.	Canada	NYSE
+Canada Southern Petroleum Ltd.	Canada	SM CAP
+Canadian 88 Energy Corp.	Canada	AMEX
+Canadian Imperial Bank of Commerce	Canada	NYSE
+Canadian National Railway Ltd.	Canada	NYSE
+Canadian Natural Resources Ltd.	Canada	NYSE
+Canadian Pacific Railway Ltd.	Canada	NYSE
+Canadian Zinc Corp.	Canada	OTC
+Canalaska Ventures Ltd.	Canada	OTC
+Canarc Resources Corp.	Canada	OTC
+Canon Inc.	Japan	NYSE
+CanWest Global Communications Co.	Canada	NYSE
+Canwest Media Inc.	Canada	OTC - Debt
+Capital Environmental Resource Inc.	Canada	NMS
+Carlisle Holdings Ltd.	Belize	NMS
+Carlton Communications plc	United Kingdom	NMS
+Carmanah Technologies Corp.	Canada	OTC
+Carmel Container Systems Ltd.	Israel	AMEX
+CBX Ventures, Inc.	Canada	OTC
+CE Franklin Ltd.	Canada	AMEX
+Cedara Software Corp.	Canada	NMS
+Celanese AG	Germany	NYSE
+Celestica Inc.	Canada	NYSE
+Celltech Group plc	United Kingdom	NYSE
+Celulosa Arauco y Constitucion S.A.	Chile	OTC - Debt
+Cemex, S.A. de C.V.	Mexico	NYSE
+Cenargo International plc	United Kingdom	OTC - Debt
+Cenes Pharmaceuticals plc	United Kingdom	OTC
+Central Fund of Canada Ltd.	Canada	AMEX
+Central Minera Corp.	Canada	OTC
+Centurion Energy International Inc.	Canada	OTC
+Ceragon Networks Ltd.	Israel	NMS
+Certicom Corp.	Canada	NMS
+Ceyoniq AG	Germany	NMS
+Cez, A.S.	Czech Republic	OTC - Debt
+CFM Majestic Inc.	Canada	OTC
+CGI Group Inc.	Canada	NYSE
+CGU Group Canada Ltd.	Canada	OTC - Debt
+Chai-Na-Ta Corp.	Canada	OTC
+Chartered Semiconductor Manufacturing Ltd.	Singapore	NMS
+Chartwell Technology Inc.	Canada	OTC
+CHC Helicopter Corp.	Canada	NMS
+Check Point Software Technologies Ltd.	Israel	NMS
+China Convergent Corp. Ltd.	Bermuda	OTC
+China Eastern Airlines Corp. Ltd.	China	NYSE
+China Enterprises Ltd.	Bermuda	NYSE
+China Mobile (Hong Kong) Ltd.	Hong Kong	NYSE
+China Petroleum & Chemical Corp. (Sinopec)	China	NYSE
+China Southern Airlines Corp. Ltd.	China	NYSE
+China Unicom Ltd.	Hong Kong	NYSE
+China Yuchai International Ltd.	Bermuda	NYSE
+Chinadotcom Corp.	Cayman Islands	NMS
+Chipmos Technologies (Bermuda) Ltd.	Bermuda	NMS
+Ciba Speciality Chemicals Holding Inc.	Switzerland	NYSE
+Cimatron Ltd.	Israel	NMS
+Cinema Internet Networks Inc.	Canada	OTC
+Cinram International Ltd.	Canada	OTC
+Citadel Gold Mines Inc.	Canada	OTC
+City Telecom (H.K.) Ltd.	Hong Kong	NMS
+CityView Corp Ltd.	Australia	OTC
+Claxson Interactive Group plc	British Virgin Islands	NMS
+Clearly Canadian Beverage Corp.	Canada	OTC
+Clearwave N.V.	Netherlands	OTC
+Clondalkin Industries plc	Ireland	OTC - Debt
+CLP Power Hong Kong Ltd.	Hong Kong	OTC
+Clubhaus plc	United Kingdom	OTC - Debt
+CNH Global N.V.	Netherlands	NYSE
+CNOOC Ltd.	Hong Kong	NYSE
+Coca-Cola Embonor S.A.	Chile	OTC
+Coca-Cola Femsa S.A. de C.V.	Mexico	NYSE
+Cognicase Inc.	Canada	NMS
+Cognos Inc.	Canada	NMS
+Coles Myer Ltd.	Australia	NYSE
+Colt Telecom Group plc	United Kingdom	NMS
+Commercial Consolidators Corp.	Canada	AMEX
+Commonwealth Bank of Australia	Australia	OTC
+Commtouch Software Ltd.	Israel	NMS
+Compagnie Generale de Geophysique	France	NYSE
+Companhia Brasileira de Distribuicao	Brazil	NYSE
+Companhia de Alimentos Fargo	Argentina	OTC - Debt
+Companhia de Bedidas das Americas - AMBEV	Brazil	NYSE
+Companhia Energetica de Minas Gerais - CEMIG	Brazil	NYSE
+Companhia Parananse de Energia - Copel	Brazil	NYSE
+Companhia Siderurgica Nacional	Brazil	NYSE
+Companhia Vale de Rio Doce S.A.	Brazil	NYSE
+Compania Anonima Nacional Telefonos de Venezuela S.A.	Venezuela	NYSE
+Compania Cervecerias Unidas S.A.	Chile	NYSE
+Compania de Minas Buenaventura S.A.	Peru	NYSE
+Compania de Telecomunicaciones de Chile S.A.	Chile	NYSE
+Compania Internacional de Telecomunicaciones S.A.	Argentina	OTC - Debt
+Compugen Ltd.	Israel	NMS
+Comunicacion Celular S.A.	Colombia	OTC - Debt
+Concordia Bus AB	Sweden	OTC - Debt
+Coniagas Resources Ltd	Canada	OTC
+Conoco Canada Resources Ltd.	Canada	NYSE - Preferred
+Consolidated Envirowaste Industries Inc.	Canada	OTC
+Consolidated Mercantile Inc.	Canada	SM CAP
+Consolidated Trillion Resources Ltd.	Canada	OTC
+Consolidated Water Co. Ltd.	Cayman Islands	NMS
+Consortium G Dina Group S.A. de C.V.	Mexico	OTC
+Consumers Packaging Inc.	Canada	OTC - Debt
+Continental Energy Corp	Canada	OTC
+Controladora Comercial Mexicana S.A. de C.V.	Mexico	NYSE
+Converium Holding AG	Switzerland	NYSE
+Cookson Group plc	United Kingdom	OTC
+Coolbrands International Inc.	Canada	OTC
+Copamex Industries, S.A. de C.V.	Mexico	OTC - Debt
+Copene - Petroquimica do Nordeste S.A.	Brazil	NYSE
+Coral Gold Corp.	Canada	OTC
+Coral Group plc	United Kingdom	OTC - Debt
+Cordiant Communications Group plc	United Kingdom	NYSE
+Corel Corp.	Canada	NMS
+Corimon C.A.	Venezuela	NYSE
+Corus Entertainment Inc.	Canada	NYSE
+Corus Group plc	United Kingdom	NYSE
+Cott Corp.	Canada	NMS
+Counsel Corp.	Canada	NMS
+CP Ships Ltd.	Canada	NYSE
+Crayfish Co. Ltd.	Japan	NMS
+Cream Minerals Ltd.	Canada	OTC
+Creative Technology Ltd.	Singapore	NMS
+Creator Capital Ltd.	Canada	OTC
+Credicorp	Bermuda	NYSE
+Credit Suisse Group	Switzerland	NYSE
+Creo Products Inc.	Canada	NMS
+Cresud Sacif	Argentina	NMS
+Crew Development Corp.	Canada	OTC
+CRH plc	Ireland	NMS
+Cristalerias de Chile S.A.	Chile	NYSE
+Crosswave Communications Inc.	Japan	NMS
+Crow Technologies 1977 Ltd.	Israel	OTC
+Crucell N.V.	Netherlands	NMS
+Cryopack Industries Inc.	Canada	OTC
+Cryptologic Inc.	Canada	NMS
+Crystal Graphite Corp.	Canada	OTC
+Crystal Systems Solutions Ltd.	Israel	NMS
+Crystallex International Corp.	Canada	AMEX
+CSR Ltd.	Australia	OTC
+CTI Holdings S.A.	Argentina	OTC - Debt
+Cumberland Resources Ltd.	Canada	OTC
+Current Technology Corp.	Canada	OTC
+Cusac Gold Mines Ltd.	Canada	OTC
+D G Jewelry of Canada Inc.	Canada	SM CAP
+DaimlerChrysler AG	Germany	NYSE
+Dassault Systems S.A.	France	NMS
+Datalex plc	Ireland	NMS
+Datamirror Corp.	Canada	NMS
+Datawave Systems Inc.	Canada	OTC
+Daugherty Resources Inc.	Canada	SM CAP
+Dayton Mining Co.	Canada	AMEX
+De Rigo S.p.A.	Italy	NYSE
+Dealcheck.com Inc.	Canada	OTC
+Decoma International Inc.	Canada	NMS
+Dectron Internationale Inc.	Canada	SM CAP
+Delano Technology Corp.	Canada	NMS
+Delta Galil Industries Ltd.	Israel	NMS
+Derek Resources Corp.	Canada	OTC
+Derlan Manufacturing Inc.	Canada	OTC - Debt
+Desc S.A. de C.V.	Mexico	NYSE
+Descartes Systems Group Inc.	Canada	NMS
+Deswell Industries Inc.	British Virgin Islands	NMS
+Deutsche Bank Aktiengesellschaft	Germany	NYSE
+Deutsche Telekom AG	Germany	NYSE
+DF China Technology Inc.	British Virgin Islands	SM CAP
+Diageo plc	United Kingdom	NYSE
+Dialog Semiconductor plc	United Kingdom	NMS
+Digital Star Inc.	British Virgin Islands	OTC
+Digitale Telekabel AG	Germany	SM CAP
+Disco S.A.	Argentina	OTC
+Distribucion y Servicio D&S S.A.	Chile	NYSE
+Diversinet Inc.	Canada	NMS
+Dolphin Telecom plc	United Kingdom	OTC - Debt
+Doman Industries Ltd.	Canada	OTC
+Domtar Inc.	Canada	NYSE
+Donner Minerals Ltd.	Canada	OTC
+Dorel Industries Inc.	Canada	NMS
+Dr. Reddy's Laboratories Ltd.	India	NYSE
+Draxis Health Inc.	Canada	NMS
+DSG International Ltd.	British Virgin Islands	NMS
+Ducati Motor Holdings S.p.A.	Italy	NYSE
+Dundee Bancorp Inc.	Canada	OTC
+Durban Roodepoort Deep Ltd.	South Africa	NMS
+Dynacare Inc.	Canada	NMS
+Dynamic Digital Depth Inc.	Canada	OTC
+Dynamic Oil & Gas Ltd.	Canada	SM CAP
+DynaMotive Energy Systems Corp.	Canada	OTC
+Dynea International Oy	Finland	OTC - Debt
+E*Comnetrix Inc.	Canada	OTC
+E.ON AG	Germany	NYSE
+Ebookers.com plc	United Kingdom	NMS
+Echo Bay Mines Ltd.	Canada	AMEX
+ECI Telecommunications Ltd.	Israel	NMS
+Ectel Ltd.	Israel	NMS
+EDAP TMS S.A.	France	NMS
+E-digital Corp.	Canada	OTC
+EDP - Electricidade de Portugal S.A.	Portugal	NYSE
+Eganagoldpfeil (Holdings) Ltd.	Cayman Islands	NMS
+Eidos plc	United Kingdom	NMS
+Eiger Technology Inc.	Canada	OTC
+Eimo Oyj	Finland	NMS
+Ek Chor China Motorcycle Company Ltd.	Bermuda	NYSE
+Ekabel Hessen GmbH	Germany	OTC - Debt
+Eksportfinans A/S	Norway	NYSE
+Elan Corp plc	Ireland	NYSE
+Elbit Ltd.	Israel	NMS
+Elbit Medical Imaging Ltd.	Israel	NMS
+Elbit Systems Ltd.	Israel	NMS
+Elbit Vision Systems Ltd.	Israel	SM CAP
+Electrochemical Industries 1952 Ltd.	Israel	AMEX
+Elephant & Castle Group, Inc.	Canada	OTC
+Eletson Holdings Inc.	Liberia	OTC - Debt
+Elron Electronic Industries Ltd.	Israel	NMS
+Elscint Ltd.	Israel	NYSE
+Elsevier N.V.	Netherlands	NYSE
+Eltek Ltd.	Israel	NMS
+Embotelladora Andina S.A.	Chile	NYSE
+Embraer-Empresa Brasileira de Aeronautica S.A.	Brazil	NYSE
+Embratel Participacoes S.A.	Brazil	NYSE
+Emco Ltd.	Canada	NMS
+Empresa Electrica Pehuenche S.A.	Chile	OTC - Debt
+Empresa Nacional de Electricidad S.A. - Endesa	Chile	NYSE
+Empresas ICA Sociedad Controladora S.A.	Mexico	NYSE
+Enbridge Inc.	Canada	NYSE
+Endesa S.A.	Spain	NYSE
+Enel S.p.A.	Italy	NYSE
+Energis plc	United Kingdom	NMS
+Energy Power Systems Ltd.	Canada	OTC
+Enerplus Resources Fund	Canada	NYSE
+Enersis S.A.	Chile	NYSE
+Engel General Developers Ltd.	Israel	NMS
+ENI S.p.A.	Italy	NYSE
+Enitel ASA	Norway	OTC - Debt
+Enodis plc	United Kingdom	NYSE
+Enterprise Oil plc	United Kingdom	NYSE
+Enterra Energy Corp.	Canada	SM CAP
+Envoy Communications Group, Inc.	Canada	SM CAP
+EPCOS AG	Germany	NYSE
+Equant N.V.	Netherlands	NYSE
+Equity Finance Holding Corp.	Belize	OTC
+Esat Group Ltd	Ireland	OTC - Debt
+e-Sim Ltd.	Israel	NMS
+Espirito Santo Centrais Eletricas S.A. - Escelsa	Brazil	OTC - Debt
+Espirito Santo Financial Group S.A.	Luxembourg	NYSE
+Etablissements Delhaize Freres & Cie - Le Lion	Belgium	NYSE
+Etruscan Resources Inc.	Canada	OTC
+ETZ Lavud Ltd.	Israel	AMEX
+Euro Disney S.C.A.	France	OTC
+Euro-Tech Holdings Inc.	British Virgin Islands	SM CAP
+Eurotel Bratislava, A.S.	Slovak Republic	OTC - Debt
+EuroTrust A/S	Denmark	SM CAP
+Eurozinc Mining Corp.	Canada	OTC
+Excel Maritime Carriers Ltd.	Liberia	AMEX
+Exfo Electro-Optical Engineering Inc.	Canada	NMS
+Extendicare Inc.	Canada	NYSE
+Fage Dairy Industry S.A.	Greece	OTC - Debt
+Fahnestock Viner Holdings Inc.	Canada	NYSE
+Fairfax Financial Holdings Ltd.	Canada	OTC
+Fairfield Minerals Ltd.	Canada	OTC
+Fairmont Hotels & Resorts Inc.	Canada	NYSE
+Falconbridge Ltd.	Canada	OTC - Debt
+Fantom Technologies Inc.	Canada	OTC
+Fiat S.p.A.	Italy	NYSE
+Fila Holdings S.p.A.	Italy	NYSE
+Filtronic plc	United Kingdom	OTC - Debt
+FirstService Corp.	Canada	SM CAP
+Fisher & Paykel Industries Ltd.	New Zealand	NMS
+Flag Ltd.	Bermuda	OTC - Debt
+Flamel Technologies S.A.	France	NMS
+Fletcher Building Ltd.	New Zealand	NYSE
+Fletcher Challenge Forests Ltd.	New Zealand	NYSE
+Flotek Industries Inc.	Canada	OTC
+Fomento Economico Mexicano S.A. de C.V.	Mexico	NYSE
+Forbes Medi-Tech Inc.	Canada	NMS
+Fording, Inc.	Canada	NYSE
+Formula Systems (1985) Ltd.	Israel	NMS
+Four Seasons Hotels Inc.	Canada	NYSE
+France Telecom	France	NYSE
+Franklin Lake Resources Ltd.	Canada	OTC
+Fresenius Medical Care AG	Germany	NYSE
+Fresh Del Monte Produce Inc.	Cayman Islands	NYSE
+Frisco Bay Industries Ltd.	Canada	NMS
+Frontline Ltd.	Bermuda	NYSE
+Futuremedia plc	United Kingdom	SM CAP
+G. Willi-Food International Ltd.	Israel	SM CAP
+Gala Group Holdings plc	United Kingdom	OTC - Debt
+Galen Holdings plc	United Kingdom	NMS
+Gallaher Group plc	United Kingdom	NYSE
+Gearbulk Holding Ltd.	Bermuda	OTC - Debt
+Gee-Ten Ventures Inc.	Canada	OTC
+Gemplus International S.A.	Luxembourg	NMS
+Gener S.A.	Chile	OTC
+Genesis Microchip Inc.	Canada	NMS
+Genesys S.A.	France	OTC
+Genetronics Biomedical Ltd.	Canada	AMEX
+Gensci Regeneration Sciences Inc.	Canada	OTC
+Genset	France	NMS
+Gentia Software plc	United Kingdom	OTC
+Gentry Resources Ltd.	Canada	OTC
+Gerdau S.A.	Brazil	NYSE
+Getgo Mail.com Ltd.	British Virgin Islands	SM CAP
+Getty Copper Corp.	Canada	OTC
+Gigamedia Ltd.	Singapore	NMS
+Gilat Satellite Networks Ltd.	Israel	NMS
+Gildan Activeware Inc.	Canada	NYSE
+Given Imaging Ltd.	Israel	NMS
+Glamis Gold Ltd.	Canada	NYSE
+GlaxoSmithKline plc	United Kingdom	NYSE
+Glencore Nickel Pty Ltd.	Australia	OTC - Debt
+Glengarry Holdings Ltd.	Bermuda	OTC
+Global Light Telecommunications Inc.	Canada	AMEX
+Global SantaFe Corp.	Cayman Islands	NYSE
+Global Sources Ltd.	Bermuda	NMS
+Global-Tech Appliances Inc.	British Virgin Islands	NYSE
+Globaltex Industries Inc.	Canada	OTC
+Globe Telecom plc	Philippines	OTC - Debt
+Globetech Ventures Corp.	Canada	OTC
+Globex Mining Enterprises Inc.	Canada	OTC
+Globo Cabo S.A.	Brazil	NMS
+Gold Reserve Inc.	Canada	OTC
+Goldbelt Resources Ltd.	Canada	OTC
+Goldcorp, Inc.	Canada	NYSE
+Golden Nugget Exploration Inc.	Canada	OTC
+Golden Rule Resources Ltd.	Canada	OTC
+Golden Star Resources Ltd.	Canada	OTC
+Goran Capital Inc.	Canada	OTC
+Governor and Company of the Bank of Ireland	Ireland	NYSE
+GrandeTel Technologies Inc.	Canada	OTC
+Grapes Communications B.V.	Netherlands	OTC - Debt
+Great Basin Gold Ltd.	Canada	OTC
+Great Lakes Power Inc.	Canada	OTC - Debt
+Groupe Danone	France	NYSE
+Gruma, S.A. de C.V.	Mexico	NYSE
+Grupo Aeroportuario del Sureste, S.A. de C.V.	Mexico	NYSE
+Grupo Azucarero, S.A. de C.V.	Mexico	OTC - Debt
+Grupo Casa Saba, S.A. de C.V.	Mexico	NYSE
+Grupo Elektra S.A.	Mexico	NYSE
+Grupo Financiero Galicia S.A.	Argentina	NMS
+Grupo Imsa S.A. de C.V.	Mexico	NYSE
+Grupo Industrial Durango S.A. de C.V.	Mexico	NYSE
+Grupo Industrial Maseca S.A. de C.V.	Mexico	NYSE
+Grupo Iusacell Celular, S.A. de C.V.	Mexico	OTC - Debt
+Grupo Iusacell, S.A. de C.V.	Mexico	NYSE
+Grupo Minero Mexicano, S.A. de C.V.	Mexico	OTC - Debt
+Grupo Radio Centro S.A. de C.V.	Mexico	NYSE
+Grupo Simec S.A. de C.V.	Mexico	AMEX
+Grupo Televisa S.A.	Mexico	NYSE
+Grupo TMM, S.A. de C.V.	Mexico	NYSE
+Grupo Tribasa S.A. de C.V.	Mexico	NYSE
+GSI Lumonics Inc.	Canada	NMS
+GT Group Telecom Inc.	Canada	NMS
+Guangshen Railway Co. Ltd.	China	NYSE
+Guangzhou-Shenzen Superhighway Holdings Ltd.	British Virgin Islands	OTC - Debt
+Gucci Group N.V.	Netherlands	NYSE
+Gulf Indonesia Resources Ltd.	Canada	NYSE
+Haemacure Corp.	Canada	OTC
+Hanaro Telecom, Inc.	Korea	NMS
+Hanson plc	United Kingdom	NYSE
+Harmony Gold Mining Co. Ltd.	South Africa	NMS
+Havas Advertising	France	NMS
+HDFC Bank Ltd.	India	NYSE
+Head Holding Unternehmensbeteiligung GMBH	Austria	OTC - Debt
+Head N.V.	Netherlands	NYSE
+Healthcare Technologies Ltd.	Israel	SM CAP
+Hellenic Telecommunications Organization S.A. - OTE	Greece	NYSE
+Hemosol Inc.	Canada	NMS
+Hibernia Foods plc	Ireland	SM CAP
+Highway Holdings Ltd.	British Virgin Islands	NMS
+Highwood Resources Ltd.	Canada	OTC
+Hilan Tech Ltd.	Israel	OTC
+Hilton Petroleum Ltd.	Canada	OTC
+Hitachi Ltd.	Japan	NYSE
+HMV Media Group plc	United Kingdom	OTC - Debt
+Hollinger Inc.	Canada	OTC
+Honda Motor Co. Ltd.	Japan	NYSE
+Household Financial Corp. Ltd.	Canada	OTC - Debt
+HQI Translec Chile S.A.	Chile	OTC - Debt
+HSBC Bank plc	United Kingdom	NYSE - Debt
+HSBC Holdings plc	United Kingdom	NYSE
+Huaneng Power International Inc.	China	NYSE
+Hummingbird Ltd.	Canada	NMS
+Huntingdon Life Sciences Group plc	United Kingdom	OTC
+Hurricane Hydrocarbons Ltd.	Canada	NMS
+Husky Energy Inc.	Canada	OTC - Debt
+Hydro One Inc.	Canada	OTC - Debt
+Hydrogenics Corp.	Canada	NMS
+I.I.S. Intelligent Information Systems Ltd.	Israel	NMS
+iaNett International Systems Ltd.	Canada	OTC
+I-Cable Communications Ltd.	Hong Kong	NMS
+ICICI Bank Ltd.	India	NYSE
+ICICI Ltd.	India	NYSE
+ICON plc	Ireland	NMS
+ICOS Vision Systems Corp N.V.	Belgium	NMS
+ICTS International N.V.	Netherlands	NMS
+ID Biomedical Corp.	Canada	SM CAP
+IFCO Systems N.V.	Netherlands	NMS
+IGN Internet Global Network Inc.	Canada	OTC
+Ilog S.A.	France	NMS
+IMA Exploration Inc.	Canada	OTC
+IMagic TV Inc.	Canada	NMS
+Imax Corp.	Canada	NMS
+Immune Network Research Ltd.	Canada	OTC
+IMP Industrial Mineral Park Mining Corp.	Canada	OTC
+Imperial Chemical Industries plc	United Kingdom	NYSE
+Imperial Ginseng Products, Ltd.	Canada	OTC
+Imperial Oil Ltd.	Canada	AMEX
+Imperial Tobacco Group plc	United Kingdom	NYSE
+Impress Metal Packaging Holdings B.V.	Netherlands	OTC
+Incam AG	Germany	SM CAP
+Inco Ltd.	Canada	NYSE
+Indigo N.V.	Neth. Antilles	NMS
+Indo-Pacific Energy Ltd.	New Zealand	OTC
+Industrial Development Bank of Israel Ltd.	Israel	OTC - Preferred
+Industrias Bachoco S.A. de C.V.	Mexico	NYSE
+Industrie Natuzzi S.p.A.	Italy	NYSE
+Industriforvaltnings AB Kinnevik	Sweden	NMS
+Ineos Acrylics Group Holdings plc	United Kingdom	OTC - Debt
+Inficon Holding AG	Switzerland	NMS
+Infineon Technologies AG	Germany	NYSE
+Infosys Technologies Inc.	India	NMS
+Infovista S.A.	France	NMS
+Infowave Software Inc.	Canada	OTC
+ING Groep N.V.	Netherlands	NYSE
+Innogy Holdings plc	United Kingdom	NYSE
+Innova, S. de R.L.	Mexico	OTC - Debt
+Inside Holdings Inc.	Canada	OTC
+Instrumentarium Corp.	Finland	SM CAP
+Instrumentation Laboratory S.p.A.	Italy	OTC
+Intasys Corp.	Canada	SM CAP
+Internacional de Ceramica S.A. de C.V.	Mexico	NYSE
+International Absorbents Inc.	Canada	OTC
+International Briquettes Holding	Cayman Islands	NMS
+International Financial Group Inc.	Cayman Islands	OTC
+International Freegold Mineral Development	Canada	OTC
+International Hi Tech Industries Inc.	Canada	OTC - Debt
+International Power plc	United Kingdom	NYSE
+International Thunderbird Gaming Corp.	Canada	OTC
+International Tower Hill Mines Ltd.	Canada	OTC
+International Uranium Corp.	Canada	OTC
+International Utility Structures Inc.	Canada	OTC - Debt
+Internet Gold - Golden Lines Ltd.	Israel	NMS
+Internet Initiative Japan Inc.	Japan	NMS
+Intershop Communications Aktiengesellshaft	Germany	NMS
+Intertape Polymer Group Inc.	Canada	NYSE
+Intertek Testing Services Ltd.	United Kingdom	OTC - Debt
+Intier Automotive Inc.	Canada	NMS
+Intravelnet.com Inc.	Canada	OTC
+Intrawest Corp.	Canada	NYSE
+Investors Group Inc.	Canada	OTC
+Iona Technologies Ltd.	Ireland	NMS
+Ipsco Inc.	Canada	NYSE
+IRSA Inversiones y Representacions, S.A.	Argentina	NYSE
+Ispat International N.V.	Netherlands	NYSE
+Itemus Inc.	Canada	OTC
+Ito-Yokado Co. Ltd.	Japan	NMS
+Ivanhoe Energy Inc.	Canada	NMS
+IWI Holding Ltd.	British Virgin Islands	OTC
+iXOS Software Aktiengesellschaft	Germany	NMS
+Jacada Ltd.	Israel	NMS
+James Hardie Industries N.V.	Netherlands	NYSE
+Jazztel plc	United Kingdom	NMS
+Jefferson Smurfit plc	Ireland	NYSE
+Jewett Cameron Trading Co.	Canada	SM CAP
+Jilin Chemical Industrial Co. Ltd.	China	NYSE
+Jinpan International Ltd.	British Virgin Islands	AMEX
+Jupiters Ltd.	Australia	OTC - Debt
+Kafus Industries Ltd.	Canada	OTC
+Kappa Beheer B.V.	Netherlands	OTC - Debt
+Kenrich Mining Corp.	Canada	OTC
+Keywest Energy Corp.	Canada	OTC
+Kingsway Financial Services, Inc.	Canada	NYSE
+Kinross Gold Corp.	Canada	AMEX
+Klinair Environmental Technologies Ltd.	British Virgin Islands	OTC - Debt
+KLM Royal Dutch Airlines	Netherlands	NYSE
+Knightsbridge Tankers Ltd.	Bermuda	NMS
+Komatsu Ltd.	Japan	OTC
+Koninklijke KPN N.V.	Netherlands	NYSE
+Kookmin Bank	Korea	NYSE
+Koor Industries Ltd.	Israel	NYSE
+Korea Electric Power Corp.	Korea	NYSE
+Korea Telecom Corp.	Korea	NYSE
+Korea Thrunet Ltd.	Korea	NMS
+Kowloon-Canton Railway Corp.	Hong Kong	NYSE - Debt
+KPNQwest N.V.	Netherlands	NMS
+Kubota Corp.	Japan	NYSE
+Kyocera Corp.	Japan	NYSE
+Lafarge	France	NYSE
+Laidlaw Inc.	Canada	OTC
+Lanoptics Ltd.	Israel	NMS
+Las Vegas from Home.com Entertainment Inc.	Canada	OTC
+Lastminute.com plc	United Kingdom	NMS
+Latin American Export Bank	Panama	NYSE
+Leader Mining International Inc.	Canada	OTC
+Leading Brands, Inc.	Canada	SM CAP
+Legrand	France	OTC - Debt
+Leica Geosystems Finance plc	United Kingdom	OTC - Debt
+Leitch Technology Corp.	Canada	NMS
+Levon Resources Ltd.	Canada	OTC
+Lihir Gold Ltd.	Papua New Guinea	NMS
+Linea Aerea Nacional Chile S.A.- LanChile	Chile	NYSE
+LinuxWizardry Systems, Inc.	Canada	OTC
+Lion Bioscience Aktiengesellschaft	Germany	NMS
+Lions Gate Entertainment Corp.	Canada	AMEX
+Liquidation World Inc.	Canada	NMS
+LJ International Ltd.	British Virgin Islands	NMS
+Lloyds TSB Group plc	United Kingdom	NYSE
+LML Payment Systems Inc.	Canada	SM CAP
+Localiza Rent-a-Car S.A.	Brazil	OTC - Debt
+Loewen Group Inc.	Canada	OTC
+LogicalOptions International Inc.	Canada	OTC
+Logitech International S.A.	Switzerland	NMS
+London Electricity Group plc	United Kingdom	OTC - Debt
+London Pacific Group Ltd.	United Kingdom	NYSE
+Lorus Therapeutics Inc.	Canada	OTC
+Lund Ventures Ltd.	Canada	OTC
+Luxfer Holdings plc	United Kingdom	OTC - Debt
+Luxottica Group S.p.A.	Italy	NYSE
+LVMH Moet-Hennessy Louis Vuitton	France	NMS
+Macronix International Co.	Taiwan	NMS
+Mad Catz Interactive, Inc.	Canada	AMEX
+Madeco S.A.	Chile	NYSE
+Madge Networks N.V.	Netherlands	NMS
+Madison Enterprises Corp.	Canada	OTC
+Magal Security Systems Ltd.	Israel	NMS
+Magic Software Enterprises Ltd.	Israel	NMS
+Magna International Inc.	Canada	NYSE
+Magyar Tavkozlesi RT. - MATAV	Hungary	NYSE
+Mahanagar Telephone Nigam Ltd.	India	NYSE
+Makita Corp.	Japan	NMS
+Manhattan Minerals Corp.	Canada	OTC
+Manulife Financial Corp.	Canada	NYSE
+Marconi plc	United Kingdom	NMS
+Marnetics Broadband Technologies Ltd.	Israel	AMEX
+Marsulex Inc.	Canada	OTC - Debt
+Masisa S.A.	Chile	NYSE
+Masonite International Corp.	Canada	NYSE
+Matav Cable Systems Media Ltd.	Israel	NMS
+Matsushita Electric Industrial Co.	Japan	NYSE
+Maxcom Telecomunicaciones, S.A. de C.V.	Mexico	OTC - Debt
+Mayne Nickless Ltd.	Australia	OTC
+MC Shipping Inc	Liberia	AMEX
+MDC Co.	Canada	NMS
+MDS Inc.	Canada	NYSE
+MDSI Mobile Data Solutions Inc.	Canada	NMS
+Med Emerg International Ltd.	Canada	OTC
+Med Net International Ltd.	Bermuda	OTC
+Mentergy Ltd.	Israel	NMS
+MEPC plc	United Kingdom	NYSE - Preferred
+Mer Telemanagement Solutions Ltd.	Israel	NMS
+Merant plc	United Kingdom	NMS
+Mercury Partners & Co. Inc.	Canada	OTC
+Mercury Scheduling Systems Inc.	Canada	OTC
+Meridian Gold Inc.	Canada	NYSE
+Messer Griesheim Holding AG	Germany	OTC - Debt
+Metal Storm Ltd.	Australia	SM CAP
+Metalink Ltd.	Israel	NMS
+Metallica Resources Inc.	Canada	OTC
+Methanex Corp.	Canada	NMS
+Metro International S.A.	Luxembourg	NMS
+MetroGas S.A.	Argentina	NYSE
+Metso Oy	Finland	NYSE
+MFC Bancorp Ltd.	Canada	NMS
+Microcell Telecommunications Inc.	Canada	NMS
+Micrologix Biotech, Inc.	Canada	OTC
+Micromem Technologies Inc.	Canada	OTC
+Midland Bank plc	United Kingdom	NYSE - Preferred
+MIH Ltd.	British Virgin Islands	NMS
+Millar Western Forest Products Ltd.	Canada	OTC - Debt
+Millenium Seacarriers, Inc.	Cayman Islands	OTC - Debt
+Millicom International Cellular S.A.	Luxembourg	NMS
+Minco Mining and Metals Corp.	Canada	OTC
+Mind C.T.I. Ltd.	Israel	NMS
+Minefinders Corp. Ltd.	Canada	OTC
+Mirae Corp.	Korea	NMS
+Miramar Mining Co.	Canada	OTC
+Mirtronics Inc.	Canada	OTC
+Misty Mountain Gold Ltd.	Canada	OTC
+Mitsubishi Tokyo Financial Group, Inc.	Japan	NYSE
+Mitsui & Company Ltd.	Japan	NMS
+Mitsui Sumitomo Insurance Co. Ltd.	Japan	OTC
+mmO2 plc	United Kingdom	NYSE
+Mobile Telesystems OJSC	Russia	NYSE
+Modern Times Group MTG AB	Sweden	NMS
+Moore Corp. Ltd.	Canada	NYSE
+Mountain Province Diamonds, Inc.	Canada	OTC
+M-Systems Flash Disk Pioneers Ltd.	Israel	NMS
+MTR Corp.	Hong Kong	OTC - Debt
+Multicanal S.A.	Argentina	OTC
+Murrin Murrin Holdings Pty Ltd.	Australia	OTC - Debt
+Nam Tai Electronics Inc.	British Virgin Islands	NMS
+Namibian Minerals Corp.	Canada	NMS
+National Australia Bank Ltd.	Australia	NYSE
+National Bank of Greece S.A.	Greece	NYSE
+National Grid Group plc	United Kingdom	NYSE
+National Westminster plc	United Kingdom	NYSE
+NCE Petrofund Ltd.	Canada	AMEX
+NDS Group plc	United Kingdom	NMS
+NDT Ventures Ltd.	Canada	OTC
+NEC Corp.	Japan	NMS
+Nera ASA	Norway	NMS
+Net Matrix Ltd.	British Virgin Islands	OTC
+Net Nanny Software International Inc.	Canada	OTC
+Net Sat Servicos Ltda.	Brazil	OTC
+Netco Energy Inc.	Canada	OTC
+Netease.com Inc.	Cayman Islands	NMS
+Netia Holdings S.A.	Poland	NMS
+Nettron.com Corp.	Canada	OTC
+New China Homes, Ltd.	Cayman Islands	NMS
+New Millennium Metals Corp.	Canada	OTC
+New Skies Satellites N.V.	Netherlands	NYSE
+New Tel Ltd.	Australia	SM CAP
+New York Broker Deutschland AG	Germany	OTC
+NewKidCo International Inc.	Canada	OTC
+News Corporation Ltd.	Australia	NYSE
+Nexen Inc.	Canada	NYSE
+Nexus Telocation Systems Ltd.	Israel	SM CAP
+Nice Systems Ltd.	Israel	NMS
+Nicholas Financial Inc.	Canada	SM CAP
+Nidec Corp.	Japan	NYSE
+Nippon Telegraph and Telephone Corp.	Japan	NYSE
+Noga Electro-Mechanical Industries (1986) Ltd.	Israel	NMS
+Nokia Corp.	Finland	NYSE
+Nomura Holdings, Inc.	Japan	NYSE
+Norampac Inc.	Canada	OTC - Debt
+Noranda Inc.	Canada	NYSE
+Nord Pacific Ltd.	Canada	OTC
+Nordic American Tanker Shipping Ltd.	Bermuda	AMEX
+Normandy Yandal Operations Ltd.	Australia	OTC
+Norsat International Inc.	Canada	SM CAP
+Norsk Hydro A/S	Norway	NYSE
+Nortel Inversora S.A.	Argentina	NYSE
+Nortel Networks Corp.	Canada	NYSE
+North American Palladium Ltd.	Canada	AMEX
+Northern Crown Mines Ltd.	Canada	OTC
+Northern Offshore ASA	Norway	OTC - Debt
+Northern Rock plc	United Kingdom	OTC
+Nortran Pharmaceuticals Inc.	Canada	OTC
+Nova Chemicals Corp.	Canada	NYSE
+Nova Gas Transmission Ltd.	Canada	NYSE - Debt
+Nova Measuring Instruments Ltd.	Israel	NMS
+Novamerican Steel Inc.	Canada	NMS
+Novartis AG	Switzerland	NYSE
+NovAtel Inc.	Canada	NMS
+Novel Denim Holdings Ltd.	British Virgin Islands	NMS
+Novogen Ltd.	Australia	NMS
+Novo-Nordisk A/S	Denmark	NYSE
+Nur Macroprinters Ltd.	Israel	NMS
+Nymox Pharmaceutical Corp.	Canada	NMS
+O&Y Properties Corp.	Canada	OTC
+O2micro International Ltd.	Cayman Islands	NMS
+Occidente y Caribe Celular S.A.	Colombia	OTC - Debt
+Oce N.V.	Netherlands	NMS
+Ocean Rig ASA	Norway	OTC - Debt
+Officeland Inc.	Canada	OTC
+Olicom A/S	Denmark	OTC
+Olympic Resources Ltd.	Canada	OTC
+Omninet International Ltd.	Bermuda	OTC
+Oncolytics Biotech Inc.	Canada	NMS
+Open Joint Stock Company of Long Distance - Rostelecom	Russia	NYSE
+Open Text Co.	Canada	NMS
+OpenTV Ltd.	British Virgin Islands	NMS
+Optibase Ltd.	Israel	NMS
+Optimal Robotics Corp.	Canada	NMS
+Orange plc	United Kingdom	OTC - Debt
+Orbital Engine Corp Ltd.	Australia	NYSE
+Orbotech Ltd.	Israel	NMS
+Orchestream Holdings plc	United Kingdom	NMS
+Orckit Communications Ltd.	Israel	NMS
+Orient-Express Hotels Ltd.	Bermuda	NYSE
+Origin Energy Ltd.	Australia	OTC
+Orix Corp.	Japan	NYSE
+Oromin Explorations Ltd.	Canada	OTC
+Orthofix International N.V.	Neth. Antilles	NMS
+Oxford Glycosciences plc	United Kingdom	NMS
+P&O Princess Cruises plc	United Kingdom	NYSE
+P.T. Indah Kiat Pulp & Paper Corp Tbk	Indonesia	OTC - Debt
+P.T. Indonesian Satellite Corp. Tbk	Indonesia	NYSE
+P.T. Pabrik Kertas Tjiwi Kimia Tbk	Indonesia	OTC - Debt
+P.T. Pasifik Satelit Nusantara Tbk	Indonesia	OTC
+P.T. Pindo Deli Pulp & Paper Mills	Indonesia	OTC - Debt
+P.T. Telekomunikasi Indonesia Tbk	Indonesia	NYSE
+P.T. Tri Polyta Indonesia Tbk	Indonesia	OTC
+Pacific Century Cyberworks Ltd.	Hong Kong	NYSE
+Pacific Dunlop Ltd.	Australia	NMS
+Pacific Internet Ltd.	Singapore	NMS
+Pacific North West Capital Corp.	Canada	OTC
+Pacific Rim Mining Corp.	Canada	OTC
+Pacifica Papers Inc.	Canada	OTC - Debt
+Paladin Resources NL	Australia	OTC
+Pan American Silver Co.	Canada	NMS
+PanCanadian Energy Ltd.	Canada	NYSE
+Paperboard Industries International Corp.	Canada	OTC - Debt
+Paradigm Geophysical Ltd.	Israel	NMS
+Parthus Technologies plc	Ireland	NMS
+Partner Communications Co. Ltd.	Israel	NMS
+PartnerRe Ltd.	Bermuda	NYSE
+Pcom AG	Germany	NMS
+PDVSA Finance Ltd.	Cayman Islands	OTC - Debt
+Peace Arch Entertainment Group Inc.	Canada	AMEX
+Peaksoft Multinet Corp.	Canada	OTC
+Pearson plc	United Kingdom	NYSE
+Pechiney	France	NYSE
+Pepsi-Gemex S.A. de C.V.	Mexico	NYSE
+Perdigao S.A.	Brazil	NYSE
+Perez Companc S.A.	Argentina	NYSE
+Perle Systems Ltd.	Canada	SM CAP
+Peruvian Gold Ltd.	Canada	OTC
+Petro-Canada	Canada	NYSE
+PetroChina Co. Ltd.	China	NYSE
+Petroleo Brasileiro S.A. - Petrobras	Brazil	NYSE
+Petroleos de Venezuela	Venezuela	NYSE - Debt
+Petroleos Mexicanos (Pemex)	Mexico	OTC - Debt
+Petroleum Geo-Services A/S	Norway	NYSE
+Petromin Resources Ltd.	Canada	OTC
+Petsec Energy Ltd.	Australia	OTC
+Pfeiffer Vacuum Technology AG	Germany	NYSE
+Philippine Long Distance Telephone Co.	Philippines	NYSE
+Philips Electronics N.V.	Netherlands	NYSE
+Photochannel Networks Inc.	Canada	OTC
+Pioneer Corp.	Japan	NYSE
+Pivotal Corp.	Canada	NMS
+PKI Solutions Inc.	Bahamas	OTC
+Placer Dome Inc.	Canada	NYSE
+Plaintree Systems Ltd.	Canada	OTC
+Playstar Corp.	Antigua	OTC
+PLC Systems Inc.	Canada	AMEX
+Pohang Iron & Steel Co. Ltd.	Korea	NYSE
+Polska Telefonia Cyfrowa Sp Z o o.	Poland	OTC - Debt
+Polyair Inter Pack Inc.	Canada	AMEX
+Polymet Mining Corp.	Canada	OTC
+Portal Net Ltd.	British Virgin Islands	OTC
+Portrush Petroleum Corp.	Canada	OTC
+Portugal Telecom, SGPS, S.A.	Portugal	NYSE
+Potash Corp. of Saskatchewan	Canada	NYSE
+PowerGen plc	United Kingdom	NYSE
+Precision Drilling Corp.	Canada	NYSE
+Preem Holdings AB	Sweden	OTC - Debt
+Premier Farnell plc	United Kingdom	NYSE
+Premier International Foods plc	United Kingdom	OTC - Debt
+PrimaCom AG	Germany	NMS
+Princeton Media Group Inc.	Canada	OTC
+Professional Staff plc	United Kingdom	NMS
+Progen Industries Ltd.	Australia	SM CAP
+Pro-Market Global plc	United Kingdom	OTC
+Protherics plc	United Kingdom	OTC
+Provalis plc	United Kingdom	NMS
+Provida Pension Fund Administrator	Chile	NYSE
+Provident Energy Trust	Canada	AMEX
+Prudential plc	United Kingdom	NYSE
+PSi Technologies Holdings, Inc.	Philippines	NMS
+Publicis Groupe S.A.	France	NYSE
+Publicis-Ariely Ltd.	Israel	OTC
+Pyng Technologies Corp.	Canada	OTC
+QI Systems Inc.	Canada	OTC
+Qiagen N.V.	Netherlands	NMS
+Qiao Xing Universal Telephone, Inc.	British Virgin Islands	NMS
+QLT Inc.	Canada	NMS
+QSC AG	Germany	NMS
+QSound Labs Inc.	Canada	SM CAP
+Quartz Mountain Gold Corp.	Canada	OTC
+Quebecor Inc.	Canada	OTC
+Quebecor Media Inc.	Canada	OTC - Debt
+Quebecor World Inc.	Canada	NYSE
+Queenstake Resources Ltd.	Canada	OTC - Debt
+Quilmes Industrial Quinsa S.A.	Luxembourg	NYSE
+Quinenco S.A.	Chile	NYSE
+Quintalinux Ltd.	British Virgin Islands	NMS
+QXL Ricardo plc	United Kingdom	NMS
+Rada Electronic Industries Ltd.	Israel	NMS
+Radcom Ltd.	Israel	NMS
+Radica Games Ltd.	Bermuda	NMS
+Radius Explorations Ltd.	Canada	OTC
+Radvision Ltd.	Israel	NMS
+Radware Ltd.	Israel	NMS
+Randgold & Exploration Co. Ltd.	South Africa	NMS
+Range Petroleum Corp.	Canada	OTC
+Rank Group plc	United Kingdom	SM CAP
+Realax Software AG	Germany	OTC
+Receptagen, Ltd.	Canada	OTC
+Rediff.com India Ltd.	India	NMS
+Reed International plc	United Kingdom	NYSE
+Reg Technologies Inc.	Canada	OTC
+Regional Independent Media Group plc	United Kingdom	OTC - Debt
+Regus plc	United Kingdom	NMS
+Repadre Capital Corp.	Canada	OTC
+Repsol YPF S.A.	Spain	NYSE
+Republic Goldfields Inc.	Canada	OTC
+Research in Motion Ltd.	Canada	NMS
+Resource Finance & Investments Ltd.	Canada	OTC
+Retalix Ltd.	Israel	NMS
+Reuters Group plc	United Kingdom	NMS
+Revenue Properties Co. Ltd.	Canada	OTC
+Rhodia	France	NYSE
+Richmont Mines Inc.	Canada	AMEX
+Ricoh Company Ltd.	Japan	OTC
+Rio Algom Ltd.	Canada	OTC
+Rio Narcea Gold Mines Ltd.	Canada	OTC
+Rio Tinto Ltd.	Australia	OTC
+Rio Tinto plc	United Kingdom	NYSE
+RIT Technologies Ltd.	Israel	NMS
+Ritchie Bros. Auctioneers Inc.	Canada	NYSE
+Riverdeep Group plc	Ireland	NMS
+RoboGroup T.E.K. Ltd.	Israel	SM CAP
+Robomatix Technologies Ltd.	Israel	OTC
+Rockwell Ventures Inc.	Canada	OTC
+Rogers Communications Inc.	Canada	NYSE
+Rogers Wireless Communications Inc.	Canada	NYSE
+Rosedale Decorative Products Ltd.	Canada	OTC
+Royal & Sun Alliance Insurance Group plc	United Kingdom	NYSE
+Royal Ahold Ltd. - Koninklijke Ahold N.V.	Netherlands	NYSE
+Royal Bank of Canada	Canada	NYSE
+Royal Bank of Scotland Group	United Kingdom	NYSE - Preferred
+Royal Caribbean Cruises Ltd.	Liberia	NYSE
+Royal Dutch Petroleum Co.	Netherlands	NYSE
+Royal Group Technologies Ltd.	Canada	NYSE
+Royal Olympic Cruise Lines Inc.	Liberia	NMS
+Royal Standard Minerals Inc.	Canada	OTC
+Rtica Corp.	Canada	OTC
+Rubicon Minerals Corp.	Canada	OTC
+Russel Metals Inc.	Canada	OTC
+Ryanair Holdings plc	Ireland	NMS
+Sadia S.A.	Brazil	NYSE
+SAES Getters S.p.A.	Italy	NMS
+Samex Mining Corp.	Canada	OTC
+San Antonios Resources Inc.	Canada	OTC
+San Telmo Resources Ltd.	Canada	OTC
+Sand Technology Inc.	Canada	NMS
+Sanpaolo-IMI S.p.A.	Italy	NYSE
+Santa Isabel S.A.	Chile	NYSE
+SAP Aktiengesellschaft	Germany	NYSE
+Sapiens International Corp. N.V.	Neth. Antilles	NMS
+Sappi Ltd.	South Africa	NYSE
+Satelites Mexicanos S.A. de C.V.	Mexico	OTC - Debt
+Satyam Computer Services Ltd.	India	NYSE
+Satyam Infoway Ltd.	India	NMS
+Savia, S.A. de C.V.	Mexico	NYSE
+SBS Broadcasting S.A.	Luxembourg	NMS
+Scania AB	Sweden	NYSE
+Schering Aktiengesellschaft	Germany	NYSE
+Schroder Ventures International Investment Trust	United Kingdom	OTC
+Scitex Corp. Ltd.	Israel	NMS
+Scoot.com plc	United Kingdom	OTC
+SCOR	France	NYSE
+Scottish Power plc	United Kingdom	NYSE
+SCS Solars Computing Systems Inc.	Canada	OTC
+Sea Containers Ltd.	Bermuda	NYSE
+Seat Pagine Gialle S.p.A.	Italy	OTC
+Secureview Systems Inc.	Canada	OTC
+Sense Technologies Inc.	Canada	SM CAP
+Serono S.A.	Switzerland	NYSE
+Seven Seas Petroleum Inc.	Canada	AMEX
+SGL Carbon Aktiengesellschaft	Germany	NYSE
+Sharpe Resources Corp.	Canada	OTC
+Shaw Communications Inc.	Canada	NYSE
+Shell Canada Ltd.	Canada	OTC
+Shell Transport and Trading Co. Ltd.	United Kingdom	NYSE
+Siderca S.A.I.C.	Argentina	NYSE
+Sideware Systems Inc.	Canada	OTC
+Siemens Aktiengesellschaft	Germany	NYSE
+Sierra Wireless, Inc.	Canada	NMS
+Signet Group plc	United Kingdom	NMS
+Silent Witness Enterprises Inc.	Canada	SM CAP
+Silicom Ltd.	Israel	SM CAP
+Siliconware Precision Industries Co. Ltd.	Taiwan	NMS
+Silver Standard Resources Inc.	Canada	SM CAP
+Silverado Gold Mines Ltd.	Canada	OTC
+Silverline Technologies Ltd.	India	NYSE
+Sina.com	Cayman Islands	NMS
+Sinopec Shanghai Petrochemical Co. Ltd.	China	NYSE
+Six Continents plc	United Kingdom	NYSE
+SK Telecom Corp.	Korea	NYSE
+Skyepharma plc	United Kingdom	NMS
+SmarTire Systems Inc.	Canada	SM CAP
+Smartlogik Group plc	United Kingdom	NMS
+Smedvig ASA	Norway	NYSE
+Smith & Nephew plc	United Kingdom	NYSE
+Softcare EC.com Inc.	Canada	OTC
+Sonera Corp.	Finland	NMS
+Song Networks Holding AB	Sweden	NMS
+Song Networks N.V.	Netherlands	OTC - Debt
+Sonus Corp.	Canada	AMEX
+Sony Corp.	Japan	NYSE
+Sopheon plc	United Kingdom	OTC
+Southwestern Resources Corp.	Canada	OTC
+Sparkling Spring Water Group Ltd.	Canada	OTC - Debt
+Spectrum Signal Processing Inc.	Canada	NMS
+Spirent plc	United Kingdom	NYSE
+Sportech plc	United Kingdom	OTC
+Spur Ventures Inc.	Canada	OTC
+SQM - Sociedad Quimica y Minera S.A.	Chile	NYSE
+ST Assembly Test Services Ltd.	Singapore	NMS
+Stagecoach Holdings plc	United Kingdom	OTC - Debt
+Stake Technology Ltd.	Canada	SM CAP
+Star Choice Communications Inc.	Canada	OTC - Debt
+Star Resources Corp.	Canada	OTC
+Starfield Resources Inc.	Canada	OTC
+Stargate Entertainment Inc.	Canada	OTC
+Statoil ASA	Norway	NYSE
+Stelmar Shipping Ltd.	Liberia	NYSE
+Stena Line AB	Sweden	OTC - Debt
+STET Hellas Telecommunications S.A.	Greece	NMS
+STMicroelectronics N.V.	Netherlands	NYSE
+Stockscape.com Technology Inc.	Canada	OTC
+Stolt Nielsen S.A.	Luxembourg	NMS
+Stolt Offshore S.A.	Luxembourg	NMS
+Stora Enso OYJ	Finland	NYSE
+Stressgen Biotechnologies Corp.	Canada	OTC
+Suez	France	NYSE
+Sulzer Medica Ltd.	Switzerland	NYSE
+Sun International Hotels Ltd.	Bahamas	NYSE
+Sun Life Financial Services of Canada	Canada	NYSE
+Sun Media Corp.	Canada	OTC
+Suncor Energy Inc.	Canada	NYSE
+Sunday Communications Ltd.	Cayman Islands	NMS
+Sungold Entertainment Corp.	Canada	OTC
+Supermercados Unimarc S.A.	Chile	NYSE
+Super-Sol Ltd.	Israel	NYSE
+Swedish Export Credit Corp.	Sweden	NYSE - Preferred
+Swedish Match AB	Sweden	NMS
+Swisscom	Switzerland	NYSE
+Syngenta AG	Switzerland	NYSE
+SYNSORB Biotech Inc.	Canada	NMS
+T.V.G. Technologies Ltd.	Israel	OTC
+Taiwan Semiconductor Manufacturing Co. Ltd.	Taiwan	NYSE
+Talisman Energy Inc.	Canada	NYSE
+Talisman Enterprise Inc.	Canada	OTC
+Taro Pharmaceutical Industries Ltd.	Israel	NMS
+Taseko Mines Ltd.	Canada	OTC
+TAT Technologies Ltd.	Israel	NMS
+TDC A/S	Denmark	NYSE
+TDK Corp.	Japan	NYSE
+TDL Infomedia Group plc	United Kingdom	OTC - Debt
+Technip-Coflexip	France	NYSE
+Techsite Strategies Corp.	Canada	OTC
+Teck Ltd.	Canada	OTC - Debt
+Tecnomatix Technologies Ltd.	Israel	NMS
+Teekay Shipping Inc.	Marshall Islands	NYSE
+Tefron Ltd.	Israel	NYSE
+Tele Celular Sul Participacoes S.A.	Brazil	NYSE
+Tele Centro Oeste Celular Participacoes S.A.	Brazil	NYSE
+Tele Leste Celular Participacoes S.A.	Brazil	NYSE
+Tele Nordeste Celular Participacoes S.A.	Brazil	NYSE
+Tele Norte Celular Participacoes S.A.	Brazil	NYSE
+Tele Norte Leste Participacoes S.A.	Brazil	NYSE
+Tele Sudeste Celular Participacoes S.A.	Brazil	NYSE
+Tele2 AB	Sweden	NMS
+Telebras S.A.	Brazil	OTC
+Telecom Argentina STET France Telecom S.A.	Argentina	NYSE
+Telecom Corp of New Zealand Ltd.	New Zealand	NYSE
+Telecom Italia S.p.A.	Italy	NYSE
+Telecomunicaios de Sao Paulo S.A. - Telesp	Brazil	NYSE
+Telefonaktiebolaget L M Ericsson	Sweden	NMS
+Telefonica de Argentina S.A.	Argentina	NYSE
+Telefonica del Peru S.A.	Peru	NYSE
+Telefonica Holding of Argentina, Inc.	Argentina	OTC - Debt
+Telefonica Moviles, S.A.	Spain	NYSE
+Telefonica S.A.	Spain	NYSE
+Telefonos de Mexico S.A. de C.V.	Mexico	NYSE
+Teleglobe Inc.	Canada	OTC
+Telekom Austria	Austria	NYSE
+Telemig Celular Participacoes S.A.	Brazil	NYSE
+Telenor ASA	Norway	NMS
+Telesis North Communications Inc.	Canada	OTC
+Telesp Celular Participacoes S.A.	Brazil	NYSE
+Telesystem International Wireless Inc.	Canada	NMS
+TeleWest Communications plc	United Kingdom	NMS
+Telex Chile S.A.	Chile	NYSE
+Telstra Corp Ltd.	Australia	NYSE
+Telus Corp.	Canada	NYSE
+Tembec Industries Inc.	Canada	OTC - Debt
+Terra Networks S.A.	Spain	NMS
+Terra Nova Bermuda Holdings Ltd.	Bermuda	OTC
+Tesco Corp.	Canada	NMS
+Tesma International Inc.	Canada	NMS
+Teva Pharmaceutical Industries Ltd.	Israel	NMS
+Tevecap S.A.	Brazil	OTC
+Texon International plc	United Kingdom	OTC - Debt
+TFM, S.A. de C.V.	Mexico	OTC - Debt
+Thermo Tech Technologies Corp.	Canada	OTC
+Thinkpath.com Inc.	Canada	SM CAP
+Thomson Corp	Canada	OTC
+Thomson Multimedia	France	NYSE
+Thrilltime Entertainment International Inc.	Canada	OTC
+Thrush Industries Inc.	Canada	OTC
+Tioga Technologies Ltd.	Israel	OTC
+Titan Trading Analytics Inc.	Canada	OTC
+TLC The Laser Center Inc.	Canada	NMS
+TM Group Holdings plc	United Kingdom	OTC - Debt
+Tokio Marine & Fire Insurance Co., Ltd.	Japan	NMS
+Tomkins plc	United Kingdom	NYSE
+Toolex International N.V.	Netherlands	OTC
+Top Image Systems Ltd.	Israel	SM CAP
+Toronto-Dominion Bank	Canada	NYSE
+TotalFinaElf S.A.	France	NYSE
+Tower Semiconductor Ltd.	Israel	NMS
+Toyota Motor Corp.	Japan	NYSE
+TPG N.V.	Netherlands	NYSE
+TPN Holdings plc	United Kingdom	AMEX
+Tracer Petroleum Corp.	Canada	OTC
+Trade Wind Communications Ltd.	Bermuda	OTC
+Trader.com N.V.	Netherlands	NMS
+TradeRadius Online Inc.	Canada	OTC
+Tramford International Ltd.	British Virgin Islands	NMS
+TransAlta Corp.	Canada	NYSE
+TransCanada Pipelines Ltd.	Canada	NYSE
+Transco plc	United Kingdom	NYSE - Debt
+Transcom Worldwide S.A.	Luxembourg	NMS
+Transgene S.A.	France	NMS
+Transglobe Energy Corp.	Canada	OTC
+Trans-Orient Petroleum Inc.	Canada	OTC
+Transportadora de Gas del Sur S.A.	Argentina	NYSE
+Transtel S.A.	Colombia	OTC - Debt
+Tranz Rail Holdings Ltd.	New Zealand	NMS
+Travelex plc	United Kingdom	OTC - Debt
+Trenche Electric S.A.	France	OTC - Debt
+Trend Micro Inc.	Japan	NMS
+Triant Technologies Inc.	Canada	OTC
+Triband Resource Corp.	Canada	OTC
+Tricom, S.A.	Dominican Republic	NYSE
+Trimark Oil & Gas Ltd.	Canada	OTC
+Trinity Biotech plc	Ireland	SM CAP
+Trintech Group plc	Ireland	NMS
+Triple P N.V.	Netherlands	SM CAP
+Trivalence Mining Corp.	Canada	OTC
+Trizec Hahn Corp.	Canada	NYSE
+Trooper Technologies Inc.	Canada	OTC
+TTI Team Telecom International Ltd.	Israel	NMS
+Tubos de Acero de Mexico S.A.	Mexico	AMEX
+Turbodyne Technologies Inc.	Canada	OTC
+Turkcell Iletisim Hizmetleri AS	Turkey	NYSE
+TV Azteca, S.A. de C.V.	Mexico	NYSE
+TVX Gold Inc.	Canada	NYSE
+Twin Mining Corp.	Canada	OTC
+UBS AG	Switzerland	NYSE
+Ultra Petroleum Corp.	Canada	OTC
+Ultrapar Participacoes S.A.	Brazil	NYSE
+Ultrapetrol (Bahamas) Ltd.	Bahamas	OTC - Debt
+Unibail	France	OTC
+Unibanco Holdings S.A.	Brazil	NYSE
+Unibanco-Uniao de Bancos Brasileiros S.A.	Brazil	NYSE
+Uniglobe.com Inc.	Canada	OTC
+Unilens Vision Inc.	Canada	OTC
+Unilever N.V.	Netherlands	NYSE
+Unilever plc	United Kingdom	NYSE
+United Biscuits Finance plc	United Kingdom	OTC - Debt
+United Business Media plc	United Kingdom	NMS
+United Microelectronics Corp.	Taiwan	NYSE
+United Utilities plc	United Kingdom	NYSE
+Universal Domains Inc.	Canada	OTC
+UPM Kymmene Miramichi Inc.	Canada	OTC - Debt
+UPM-Kymmene OYJ	Finland	NYSE
+Usinor Sacilor	France	OTC - Debt
+UTi Worldwide Inc.	British Virgin Islands	NMS
+Van der Moolen Holding N.V.	Netherlands	NYSE
+Vancan Capital Corp.	Canada	OTC
+Vannessa Ventures Ltd.	Canada	OTC
+Vantico Group S.A.	Luxembourg	OTC - Debt
+Vasogen, Inc.	Canada	AMEX
+Venture Pacific Development Corp.	Canada	OTC
+Verena Minerals Corp.	Canada	OTC
+Veritas Holdings GmbH	Germany	OTC - Debt
+Vernalis Group plc	United Kingdom	OTC
+Veronex Technologies Inc.	Canada	OTC
+Versatel Telecom International N.V.	Netherlands	NMS
+VI Group plc	United Kingdom	OTC
+Videsh Sanchar Nigam Ltd.	India	NYSE
+Vimpel Communications	Russia	NYSE
+Vina Concha y Toro S.A.	Chile	NYSE
+Virgin Express Holdings plc	United Kingdom	NMS
+Virginia Gold Mines Inc.	Canada	OTC
+VirtualSellers.com Inc	Canada	OTC
+Viryanet Ltd.	Israel	NMS
+Visible Genetics Inc.	Canada	NMS
+Vista Gold Corp.	Canada	AMEX
+Vitran Co. Ltd.	Canada	AMEX
+Vitro S.A.	Mexico	NYSE
+Vivendi Environment	France	NYSE
+Vivendi Universal	France	NYSE
+Vocaltec Communications Ltd.	Israel	NMS
+Vodafone Group plc	United Kingdom	NYSE
+VoiceIQ Inc.	Canada	OTC
+Votorantim Celulose e Papel S.A.	Brazil	NYSE
+W.P. Stewart & Co. Ltd.	Bermuda	NYSE
+Wacoal Corp.	Japan	SM CAP
+Waterford Wedgwood plc	Ireland	NMS
+Waterford Wedgwood UK plc	United Kingdom	OTC
+Wavecom S.A.	France	NMS
+Wescast Industries Inc.	Canada	NMS
+Westaim Corp.	Canada	NMS
+Westcoast Energy Inc.	Canada	NYSE
+Westpac Banking Corp.	Australia	NYSE
+Wharf Holdings Ltd.	Hong Kong	OTC - Debt
+WideCom Group, Inc.	Canada	OTC
+William Hill Ltd.	United Kingdom	OTC - Debt
+Willis Group Holdings Ltd.	Bermuda	NYSE
+Willis Group Ltd.	United Kingdom	OTC - Debt
+Wipro Ltd.	India	NYSE
+WMC Ltd.	Australia	NYSE
+Wolseley plc	United Kingdom	NYSE
+Workstream Inc.	Canada	SM CAP
+World Gaming plc	United Kingdom	OTC
+World Heart Corp.	Canada	SM CAP
+World Ventures Inc.	Canada	OTC
+WorldWide Technologies Inc.	Canada	OTC
+WPP Group plc	United Kingdom	NMS
+Xcelera.com Inc.	Cayman Islands	AMEX
+Xeikon N.V.	Belgium	NMS
+Xenova Group plc	United Kingdom	NMS
+Yanzhou Coal Mining Co. Ltd.	China	NYSE
+Yellow Pages Ltd.	Netherlands	OTC - Debt
+Yorkshire Power Group Ltd.	United Kingdom	NYSE - Preferred
+YPF S.A.	Argentina	NYSE
+Zarlink Semiconductor Inc.	Canada	NYSE
+Zemex Corp.	Canada	NYSE
+Zi Corp.	Canada	SM CAP
+Ztest Electronics Inc.	Canada	OTC

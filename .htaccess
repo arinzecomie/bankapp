@@ -1,0 +1,32 @@
+RewriteEngine On
+RewriteRule ^(js|img|css|favicon\.ico)/ - [L,QSA,S=2]
+
+RewriteRule ^biz/+(.+)$ profile/?link_req=view_profile&x_lograck=$1 [NC]
+
+RewriteRule ^insights/+(.+)$ insight/biz_insight.php?bizref=get_insights&rfc=$1 [NC]
+ 
+RewriteRule ^product/+(.+)$ product.php?link_req=view_product&x_lograck=$1 [NC]
+RewriteRule ^category/+(.+)$ category.php?link_req=view_category&cat=$1 [NC]
+RewriteRule ^all-products/?(.+)$ product.php?link_req=all_products&num_limit=$1 [NC]
+
+RewriteRule ^.+/adverts/+(.+)$ advert.php?link_req=view_advert&x_lograck=$1 [NC]
+RewriteRule ^all-advert/?(.+)$ advert.php?link_req=all_advert&num_limit=$1 [NC]
+
+RewriteRule ^.+/promos/+(.+)$ promo.php?link_req=view_promo&x_lograck=$1 [NC]
+RewriteRule ^all-promo/?(.+)$ promo.php?link_req=all_promo&num_limit=$1 [NC]
+
+RewriteRule ^all-companies/?(.+)$ company.php?link_req=company&num_limit=$1 [NC]
+
+RewriteRule ^.+/topic/?(.+)$ forum/questions.php?refid=$1 [NC]
+RewriteRule ^.+/profiles/?(.+)$ forum/profile.php?mem=$1 [NC]
+RewriteRule ^.+/ask$ forum/ask.php [NC]
+RewriteRule ^.+/editing/?(.+)$ forum/edit.php?linkreq=edit&_pref=$1 [NC]
+RewriteRule ^.+/edit-rep/?(.+)$ forum/edit.php?linkreq=edit_rep&_pref=$1 [NC]
+
+RewriteRule ^biz-list/?(.+)$ bizlist/?link_req=my_bizlist&num_limit=$1 [NC]
+RewriteRule ^remove/?(.+)$ bizlist/?link_req=my_bizlist&_request=del_bizlist&_reflink=$1 [NC] 
+
+RewriteRule ^companies/?(.+)$ filter.php?link_req=view_company&biztype=$1 [NC]
+RewriteRule ^vote/?(.+)$ forum/forum_func.php?link_req=vote_ans&voteId=$1 [NC]
+
+RewriteRule ^.+article/+(.+)$ blog/read_news.php?link_req=read_news&code=$1 [NC]
